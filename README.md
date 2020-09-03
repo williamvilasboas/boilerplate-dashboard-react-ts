@@ -1,8 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple design using react and redux
 
-## Available Scripts
+## Tech
 
-In the project directory, you can run:
+- react
+- redux
+- redux-thunk
+- axios
+- material-ui
+- react-router-dom
+- seamless-immutable
 
 ### `npm start`
 
